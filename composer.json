@@ -1,6 +1,9 @@
 {
     "name": "fastcodings/laravel-crud",
     "type": "metapackage",
+    "description": "Quickly generate CRUDs in laravel",
+    "license": "MIT",
+    "minimum-stability": "stable",
     "autoload": {
         "psr-4": {
             "Fastcodings\\LaravelCrud\\": "src/"
