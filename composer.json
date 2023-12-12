@@ -1,7 +1,7 @@
 {
     "name": "fastcodings/laravel-crud",
     "type": "library",
-    "description": "Quickly generate CRUDs in laravel",
+    "description": "Quickly generate CRUDs in laravel admin panel",
     "license": "MIT",
     "minimum-stability": "stable",
     "autoload": {
