@@ -1,0 +1,16 @@
+{
+    "name": "fastcodings/laravel-crud",
+    "type": "metapackage",
+    "autoload": {
+        "psr-4": {
+            "Fastcodings\\LaravelCrud\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Muhammad Waqas Hameed",
+            "email": "waqas0345@gmail.com"
+        }
+    ],
+    "require": {}
+}
