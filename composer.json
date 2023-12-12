@@ -1,6 +1,6 @@
 {
     "name": "fastcodings/laravel-crud",
-    "type": "metapackage",
+    "type": "library",
     "description": "Quickly generate CRUDs in laravel",
     "license": "MIT",
     "minimum-stability": "stable",
